@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <Author>Mayakovski</Author>
+    <Title>Sni</Title>
+    <Genre>Drama</Genre>
+    <Year>2003</Year>
+    <Pages>3</Pages>
+  </book>
+</books>
